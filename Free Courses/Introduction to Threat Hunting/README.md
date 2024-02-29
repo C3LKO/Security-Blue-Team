@@ -22,4 +22,4 @@ Virtual Machines
 ----
 
 
-> <img width="400" src=""> <br>
+> <img width="400" src="https://github.com/C3LKO/Security-Blue-Team/blob/main/Assets/Introduction%20to%20Threat%20Hunting-course.jpg"> <br>
