@@ -7,16 +7,16 @@ You will be given a system image, which you must load as a virtual machine, and 
 ---
 
 Mandiant IOC Collector
---
+----
 MD5 Hashing
---
+----
 SHA-1 Hashing
---
+----
 Strings
---
+----
 File Properties
---
+----
 Mandiant Redline
---
+----
 Virtual Machines
---
+----
