@@ -55,13 +55,15 @@ Now go back to Redline and select Open Previous Analysis. Navigate to the locati
 On the new window, select IOC Reports below and click on the only entry showing at the top of the screen.
 
 Click on the two reports to view the results. We can now use the information on the screen to answer the questions.
+
 Questions:
+
 1.	How many pieces of malware were detected using IOCs generated from the two samples?
-Answer: 4
+- Answer: 4
 2. What is the file name beginning with \”w\”? (including extension)
-Answer: wallpaperHD.exe
+- Answer: wallpaperHD.exe
 3. Is there malware in the location “/DaveS/Pictures”? (True or False)
-Answer: True
+- Answer: True
 4. Which MD5 hash appears in two different files?
-Answer: 0c4374d72e166f15acdfe44e9398d026
+- Answer: 0c4374d72e166f15acdfe44e9398d026
 
