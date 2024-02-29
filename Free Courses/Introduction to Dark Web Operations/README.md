@@ -3,4 +3,4 @@ Get familiar with using the TOR browser to access the dark web, find site URLs u
 As you are working as a Dark Web Intelligence Analyst (DWIA). Your goal is to find our hidden dark web site to uncover malicious activity, and record any intelligence you can find.
 
 
-> <img width="400" src=""> <br>
+> <img width="400" src="https://github.com/C3LKO/Security-Blue-Team/blob/main/Assets/Introduction%20to%20Dark%20Web%20Operations-course.jpg"> <br>
