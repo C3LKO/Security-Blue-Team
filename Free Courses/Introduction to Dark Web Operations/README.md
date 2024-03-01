@@ -4,3 +4,5 @@ As you are working as a Dark Web Intelligence Analyst (DWIA). Your goal is to fi
 
 
 > <img width="400" src="https://github.com/C3LKO/Security-Blue-Team/blob/main/Assets/Introduction%20to%20Dark%20Web%20Operations-course.jpg"> <br>
+
+[Course Capstone — Writeup](https://medium.com/@s9804562/introduction-to-dark-web-operations-course-capstone-writeup-4392e7b74292)
