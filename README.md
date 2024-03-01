@@ -1,1 +1,1 @@
-These cheatsheet are immensely helpful as I don't have to search through my notes. If you are searching for a particular cheatsheet, you might look into this catalog and grab yourself a copy of it.
+Comprised of industry experts including Senior Security Analysts, Security Managers, and Cyber Instructors, Security-Blue-Team ensures that their certifications are comprehensive and transfer the knowledge and skills necessary to succeed in defensive security.
