@@ -6,20 +6,13 @@ You will be given a system image, which you must load as a virtual machine, and 
 
 ---
 
-Mandiant IOC Collector
-----
-MD5 Hashing
-----
-SHA-1 Hashing
-----
-Strings
-----
-File Properties
-----
-Mandiant Redline
-----
-Virtual Machines
-----
+- Mandiant IOC Collector
+- MD5 Hashing
+- SHA-1 Hashing
+- Strings
+- File Properties
+- Mandiant Redline
+- Virtual Machines
 
 
 > <img width="400" src="https://github.com/C3LKO/Security-Blue-Team/blob/main/Assets/Introduction%20to%20Threat%20Hunting-course.jpg"> <br>
