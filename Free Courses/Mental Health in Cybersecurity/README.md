@@ -1,15 +1,15 @@
 Identify, understand, and address the following conditions:
 
 
-Imposter Syndrome
+- Imposter Syndrome
 ----
-Professional Burnout
+- Professional Burnout
 ----
-Stress
+- Stress
 ----
-Depression
+- Depression
 ----
-Alert Fatigue
+- Alert Fatigue
 ----
 
 
